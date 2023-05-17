@@ -47,14 +47,13 @@ $producten->execute(["row" => "1"]);
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Netland</title>
+    <title>Winkel</title>
     <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
     <div class="box">
-        <h1>Welkom op het netland beheerders paneel :)</h1>
-        <h3>Producten</h3>
+        <h1>Producten</h1>
         <table>
             <tr>
                 <th>Product_code</th>
